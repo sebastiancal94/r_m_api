@@ -58,7 +58,7 @@ function CharacterList() {
                 <div>End Data</div>
                 
               )}
-<NavPage page={null} setPage={setPage}/>
+<NavPage page={page} setPage={setPage}/>
           </div>
         )
       }
